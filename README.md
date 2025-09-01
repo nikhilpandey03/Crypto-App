@@ -2,7 +2,6 @@
 
 A modern, responsive cryptocurrency price tracking application built with vanilla JavaScript, HTML, and CSS. Features real-time price updates, interactive charts, dark mode, search functionality, and favorites management.
 
-![Crypto Price Tracker](https://via.placeholder.com/800x400/2563eb/ffffff?text=Crypto+Price+Tracker)
 
 ## ✨ Features
 
